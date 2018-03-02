@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="112.88889mm"
+   height="31.044445mm"
+   viewBox="0 0 399.99999 110"
+   id="svg5679"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="daybox_3_mini.svg"
+   inkscape:export-filename="/home/keyjoo/daybox_2_mini.svg.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <title
+     id="title5766">DayBox App</title>
+  <defs
+     id="defs5681">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5296"
+       id="linearGradient5302"
+       x1="12.857142"
+       y1="-160.49493"
+       x2="611.42859"
+       y2="29.50506"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.64814812,0,0,0.55395684,105.60868,134.20091)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5296">
+      <stop
+         style="stop-color:#ff6600;stop-opacity:1;"
+         offset="0"
+         id="stop5298" />
+      <stop
+         style="stop-color:#ff9955;stop-opacity:1"
+         offset="1"
+         id="stop5300" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="144.0884"
+     inkscape:cy="64.054517"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1516"
+     inkscape:window-height="899"
+     inkscape:window-x="480"
+     inkscape:window-y="91"
+     inkscape:window-maximized="0"
+     showguides="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5684">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>DayBox App</dc:title>
+        <dc:language>English</dc:language>
+        <dc:date>2018.03.02</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Vladimir Pavlychev</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>(c) 2018 Vladimir Pavlychev</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>App</rdf:li>
+            <rdf:li>TimeManagement</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>Vladimir Pavlychev</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+        <cc:license
+           rdf:resource="" />
+        <dc:description>Build your Day, build your Life!</dc:description>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-20.423504,-16.804446)">
+    <rect
+       style="fill:url(#linearGradient5302);fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect5294"
+       width="400"
+       height="110"
+       x="20.423504"
+       y="16.804445" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.36142269;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect5304"
+       width="267.49646"
+       height="96.849899"
+       x="146.75432"
+       y="23.775179" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:72.70648956px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="158.92276"
+       y="90.988068"
+       id="text5290"
+       sodipodi:linespacing="125%"
+       transform="scale(0.98364599,1.0166259)"><tspan
+         sodipodi:role="line"
+         id="tspan5292"
+         x="158.92276"
+         y="90.988068"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sawasdee;-inkscape-font-specification:'Sawasdee Bold';fill:#ff6600">DayBox</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:14.42595673px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#803300;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="371.90985"
+       y="40.262527"
+       id="text5290-3"
+       sodipodi:linespacing="125%"
+       transform="scale(0.88207285,1.1336932)"><tspan
+         sodipodi:role="line"
+         id="tspan5292-7"
+         x="371.90985"
+         y="40.262527"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sawasdee;-inkscape-font-specification:'Sawasdee Bold';fill:#803300">App for Life!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:42.31979752px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-31.506519"
+       y="98.235291"
+       id="text5342"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.87306722,-0.6292203,0.70409126,0.637948,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan5344"
+         x="-31.506519"
+         y="98.235291"
+         style="fill:#ffffff">#</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.05368018;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect5304-1"
+       width="25.059099"
+       height="22.80599"
+       x="58.903622"
+       y="69.603996"
+       transform="matrix(0.9886409,0.15029693,-0.14130655,0.98996589,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:104.85905457px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="60.142166"
+       y="117.96602"
+       id="text5342-3"
+       sodipodi:linespacing="125%"
+       transform="scale(1.132126,0.88329388)"><tspan
+         sodipodi:role="line"
+         id="tspan5344-8"
+         x="60.142166"
+         y="117.96602"
+         style="fill:#ffffff">1</tspan></text>
+  </g>
+</svg>
